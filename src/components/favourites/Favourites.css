@@ -1,0 +1,10 @@
+.favourites{
+    margin: 10px;
+}
+
+
+select{
+    border-radius: 5px;
+    width: 85%;
+    float: right;
+}
